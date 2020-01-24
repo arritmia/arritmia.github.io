@@ -1,7 +1,1 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
-
-![Image of fast.ai logo](images/logo.png)
-
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=478229140/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=818317657/transparent=true/" seamless><a href="http://editions-gravats.bandcamp.com/album/champion">Champion by Iueke</a></iframe>
