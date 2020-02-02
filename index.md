@@ -1,1 +1,1 @@
-{% include screenshot url="arritmia.jpg" %}
+{% include screenshot url="arritmia_1.png" %}
